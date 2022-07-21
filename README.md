@@ -15,7 +15,7 @@ complete the learning process is necessary.
 
 Open source used in the system are shown as follows:
 
- ASRT. It is a Auto Speech Recognition Tool based on
+•  ASRT. It is a Auto Speech Recognition Tool based on
 deep learning, including models that trained by using a
 large number of Chinese Speech data sets and transcribed
 into Chinese Phonics by using Convolutional Neural Network (CNN) and Connectivity sequential classification
@@ -41,10 +41,10 @@ relational database systems.
 calculating MFCCs of speeches.
 
 • Hamming Distance API. Hamming Distance API is the
-function or program fragment for calculating the hamming distance of two texts.
+function or program fragment for calculating the hamming distance of two texts.
 
 • Enhance speach13. Enhance speach provides function for
-extracting useful speech signals from the noise background to suppress and reduce the noise interference
+extracting useful speech signals from the noise background to suppress and reduce the noise interference
 when the speech signal.
 
 

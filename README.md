@@ -47,5 +47,7 @@ function or program fragment for calculating the hamming distance of two texts.
 extracting useful speech signals from the noise background to suppress and reduce the noise interference
 when the speech signal.
 
+The struct of Chinese idiom question answering system
+![image](https://user-images.githubusercontent.com/75936827/180236472-9d197e05-1965-44d3-8088-046439b678be.png)
 
 

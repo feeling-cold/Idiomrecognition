@@ -50,4 +50,10 @@ when the speech signal.
 The struct of Chinese idiom question answering system
 ![image](https://user-images.githubusercontent.com/75936827/180236472-9d197e05-1965-44d3-8088-046439b678be.png)
 
+The algorithm that we propose: Query algorithm
+![image](https://user-images.githubusercontent.com/75936827/180237656-226d746b-76a5-4d7c-8b23-6b39a7f458d3.png)
+
+The accuracy of Chinese idiom question answering system
+![image](https://user-images.githubusercontent.com/75936827/180237919-2fc7c3a7-91d9-42cf-ba61-e65669666b89.png)
+
 
